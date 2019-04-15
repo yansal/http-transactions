@@ -1,0 +1,7 @@
+github.com/lib/pq v1.0.0/go.mod h1:5WUZQaWbwv1U+lTReE5YruASi9Al49XbQIvNi/34Woo=
+github.com/lib/pq v1.1.0 h1:/5u4a+KGJptBRqGzPvYQL9p0d/tPR4S31+Tnzj9lEO4=
+github.com/lib/pq v1.1.0/go.mod h1:5WUZQaWbwv1U+lTReE5YruASi9Al49XbQIvNi/34Woo=
+github.com/yansal/sqldriver v0.0.0-20190317133352-9a88a7c3fe87 h1:xeGQGYf6trjZgo6qImTC24jZUzOcadrPnrFsgR5aQT4=
+github.com/yansal/sqldriver v0.0.0-20190317133352-9a88a7c3fe87/go.mod h1:ddlaulyfmEV6F813fF6qWzHAqKbOGmVD9UBSXvC93Ks=
+github.com/yansal/sqldriver v0.0.0-20190415213706-351feb65d40a h1:a2JaFu1AB3KzQZInRgRuU/pgi9a4L7N7Zkq+OoTt6IQ=
+github.com/yansal/sqldriver v0.0.0-20190415213706-351feb65d40a/go.mod h1:ddlaulyfmEV6F813fF6qWzHAqKbOGmVD9UBSXvC93Ks=
